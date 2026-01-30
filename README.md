@@ -25,6 +25,11 @@ cd ~/hatui/app
 Then run
 ```~/hatui/first_launch.sh```
 
+once it's running - configure via hatuitl over ssh. 
+Remember to make any changes in the venv
+
+so run
+```source ~/hatui/venv/bin/activate```  first
 
 
 
