@@ -22,6 +22,11 @@ cd ~/hatui/app
 ~/hatui/venv/bin/python main.py
 
 
+[Then run]
+~/hatui/first_launch.sh
+
+
+
 
 
 
